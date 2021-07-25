@@ -1,6 +1,6 @@
 chrome.runtime.onInstalled.addListener(() => {
   chrome.storage.sync.set({
-    minPercentage: 50,
+    minPercentage: 100,
     maxPercentage: 150,
   });
 });

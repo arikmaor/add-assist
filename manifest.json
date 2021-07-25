@@ -1,7 +1,7 @@
 {
   "name": "ADD Assist",
   "description": "Make a web site more accessible to those who suffer from attention deficit disorder.",
-  "version": "1.0",
+  "version": "1.1",
   "manifest_version": 3,
   "background": {
     "service_worker": "background.js"
